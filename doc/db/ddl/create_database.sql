@@ -1,0 +1,1 @@
+CREATE DATABASE dsu_management;
